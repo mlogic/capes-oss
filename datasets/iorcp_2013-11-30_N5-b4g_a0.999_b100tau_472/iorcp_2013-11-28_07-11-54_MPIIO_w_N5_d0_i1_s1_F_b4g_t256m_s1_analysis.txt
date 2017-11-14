@@ -1,0 +1,4 @@
+loadavg: 1.80 2.00 2.07 1/323 5158
+n,AvgWaitTime,AvgWaitTimePercent,AvgWaitTimePercent100
+5,2.6,1.089%,109
+bw: 440.067268 stddev: 15.134228 sum(Ua(bw_i)): 20679.539137 alpha 0.000050

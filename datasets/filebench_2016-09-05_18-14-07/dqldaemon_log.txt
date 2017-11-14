@@ -1,0 +1,1586 @@
+[2016-09-05 18:15:16,049 - ReplayDB.py:48 -             __init__() ] Connected to database /data/ascar/ascar_replay_db.sqlite
+[2016-09-05 18:15:17,193 - DQLDaemon.py:142 -                start() ] DQLDaemon started
+[2016-09-05 18:15:17,195 - DQLDaemon.py:149 -                start() ] Not enough data for training yet.
+[2016-09-05 18:15:17,196 - discrete_deepq.py:247 -               action() ] Randomly chose action 1
+[2016-09-05 18:15:17,198 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:17,207 - DQLDaemon.py:149 -                start() ] Not enough data for training yet.
+[2016-09-05 18:15:17,207 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9906072616577148 seconds
+[2016-09-05 18:15:18,213 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:15:18,229 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:18,248 - DQLDaemon.py:149 -                start() ] Not enough data for training yet.
+[2016-09-05 18:15:18,248 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9658868312835693 seconds
+[2016-09-05 18:15:19,220 - discrete_deepq.py:247 -               action() ] Randomly chose action 2
+[2016-09-05 18:15:19,223 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:19,243 - DQLDaemon.py:149 -                start() ] Not enough data for training yet.
+[2016-09-05 18:15:19,243 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9785480499267578 seconds
+[2016-09-05 18:15:20,228 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:15:20,232 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:20,233 - DQLDaemon.py:149 -                start() ] Not enough data for training yet.
+[2016-09-05 18:15:20,233 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9974956512451172 seconds
+[2016-09-05 18:15:21,237 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:15:21,272 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:21,273 - DQLDaemon.py:149 -                start() ] Not enough data for training yet.
+[2016-09-05 18:15:21,273 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9640734195709229 seconds
+[2016-09-05 18:15:22,277 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:15:22,279 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:22,280 - DQLDaemon.py:149 -                start() ] Not enough data for training yet.
+[2016-09-05 18:15:22,280 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9973969459533691 seconds
+[2016-09-05 18:15:23,285 - discrete_deepq.py:251 -               action() ] Chose calculated action 2
+[2016-09-05 18:15:23,289 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:23,290 - DQLDaemon.py:149 -                start() ] Not enough data for training yet.
+[2016-09-05 18:15:23,290 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9970803260803223 seconds
+[2016-09-05 18:15:24,327 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:15:24,329 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:24,329 - DQLDaemon.py:149 -                start() ] Not enough data for training yet.
+[2016-09-05 18:15:24,330 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9976978302001953 seconds
+[2016-09-05 18:15:25,333 - discrete_deepq.py:247 -               action() ] Randomly chose action 2
+[2016-09-05 18:15:25,337 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:25,357 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 8
+[2016-09-05 18:15:25,415 - DQLDaemon.py:147 -                start() ] Finished training step in 0.07745170593261719 seconds
+[2016-09-05 18:15:25,419 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9163122177124023 seconds
+[2016-09-05 18:15:26,342 - discrete_deepq.py:251 -               action() ] Chose calculated action 2
+[2016-09-05 18:15:26,354 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:26,397 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 8
+[2016-09-05 18:15:26,429 - DQLDaemon.py:147 -                start() ] Finished training step in 0.07398152351379395 seconds
+[2016-09-05 18:15:26,429 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9151718616485596 seconds
+[2016-09-05 18:15:27,351 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:15:27,357 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:27,408 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 8
+[2016-09-05 18:15:27,415 - DQLDaemon.py:147 -                start() ] Finished training step in 0.05751180648803711 seconds
+[2016-09-05 18:15:27,415 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9394776821136475 seconds
+[2016-09-05 18:15:28,394 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:15:28,396 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:28,412 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 8
+[2016-09-05 18:15:28,419 - DQLDaemon.py:147 -                start() ] Finished training step in 0.022002696990966797 seconds
+[2016-09-05 18:15:28,419 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9758076667785645 seconds
+[2016-09-05 18:15:29,397 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:15:29,399 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:15:29,415 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 8
+[2016-09-05 18:15:29,422 - DQLDaemon.py:147 -                start() ] Finished training step in 0.023069381713867188 seconds
+[2016-09-05 18:15:29,422 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9750926494598389 seconds
+[2016-09-05 18:15:30,400 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:15:30,402 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:15:30,418 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 8
+[2016-09-05 18:15:30,425 - DQLDaemon.py:147 -                start() ] Finished training step in 0.02276468276977539 seconds
+[2016-09-05 18:15:30,425 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9755566120147705 seconds
+[2016-09-05 18:15:31,402 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:15:31,404 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:15:31,419 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 8
+[2016-09-05 18:15:31,426 - DQLDaemon.py:147 -                start() ] Finished training step in 0.021691560745239258 seconds
+[2016-09-05 18:15:31,426 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9767947196960449 seconds
+[2016-09-05 18:15:32,407 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:15:32,409 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:32,423 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 8
+[2016-09-05 18:15:32,428 - DQLDaemon.py:147 -                start() ] Finished training step in 0.01881241798400879 seconds
+[2016-09-05 18:15:32,428 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9794411659240723 seconds
+[2016-09-05 18:15:33,415 - discrete_deepq.py:251 -               action() ] Chose calculated action 0
+[2016-09-05 18:15:33,416 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:33,432 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 8
+[2016-09-05 18:15:33,438 - DQLDaemon.py:147 -                start() ] Finished training step in 0.020821094512939453 seconds
+[2016-09-05 18:15:33,438 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9770607948303223 seconds
+[2016-09-05 18:15:34,422 - discrete_deepq.py:247 -               action() ] Randomly chose action 2
+[2016-09-05 18:15:34,435 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:34,440 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:34,455 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:34,457 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:34,460 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124533
+[2016-09-05 18:15:34,462 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:34,462 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:34,463 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 11
+[2016-09-05 18:15:34,469 - DQLDaemon.py:147 -                start() ] Finished training step in 0.03389739990234375 seconds
+[2016-09-05 18:15:34,469 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9553170204162598 seconds
+[2016-09-05 18:15:35,433 - discrete_deepq.py:251 -               action() ] Chose calculated action 0
+[2016-09-05 18:15:35,443 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:35,470 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:35,479 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:35,486 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:35,489 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:35,491 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:35,492 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 12
+[2016-09-05 18:15:35,498 - DQLDaemon.py:147 -                start() ] Finished training step in 0.05416393280029297 seconds
+[2016-09-05 18:15:35,498 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9350423812866211 seconds
+[2016-09-05 18:15:36,470 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:15:36,473 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:36,476 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:36,483 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:36,488 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:36,494 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:36,496 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:36,505 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 12
+[2016-09-05 18:15:36,511 - DQLDaemon.py:147 -                start() ] Finished training step in 0.03751516342163086 seconds
+[2016-09-05 18:15:36,511 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9599819183349609 seconds
+[2016-09-05 18:15:37,477 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:15:37,533 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:37,538 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:37,538 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:37,552 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:37,553 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:37,557 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:37,558 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 12
+[2016-09-05 18:15:37,563 - DQLDaemon.py:147 -                start() ] Finished training step in 0.02956390380859375 seconds
+[2016-09-05 18:15:37,563 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9149355888366699 seconds
+[2016-09-05 18:15:38,522 - discrete_deepq.py:251 -               action() ] Chose calculated action 0
+[2016-09-05 18:15:38,524 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:38,525 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:38,533 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:38,538 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:38,543 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:38,546 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:38,547 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 12
+[2016-09-05 18:15:38,552 - DQLDaemon.py:147 -                start() ] Finished training step in 0.028208255767822266 seconds
+[2016-09-05 18:15:38,552 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9698793888092041 seconds
+[2016-09-05 18:15:39,528 - discrete_deepq.py:247 -               action() ] Randomly chose action 2
+[2016-09-05 18:15:39,535 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:39,543 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:39,549 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:39,553 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:39,558 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:39,568 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:39,570 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 17
+[2016-09-05 18:15:39,575 - DQLDaemon.py:147 -                start() ] Finished training step in 0.039549827575683594 seconds
+[2016-09-05 18:15:39,575 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9548757076263428 seconds
+[2016-09-05 18:15:40,536 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:15:40,538 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:40,539 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:40,589 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:40,591 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:40,603 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:40,609 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:40,611 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 17
+[2016-09-05 18:15:40,618 - DQLDaemon.py:147 -                start() ] Finished training step in 0.0798802375793457 seconds
+[2016-09-05 18:15:40,618 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9179153442382812 seconds
+[2016-09-05 18:15:41,578 - discrete_deepq.py:251 -               action() ] Chose calculated action 0
+[2016-09-05 18:15:41,580 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:41,583 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:41,586 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:41,592 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:41,595 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:41,610 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:41,617 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 17
+[2016-09-05 18:15:41,623 - DQLDaemon.py:147 -                start() ] Finished training step in 0.04236650466918945 seconds
+[2016-09-05 18:15:41,623 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9553356170654297 seconds
+[2016-09-05 18:15:42,585 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:15:42,587 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:42,594 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:42,611 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:42,616 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:42,619 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:42,620 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:42,622 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 17
+[2016-09-05 18:15:42,628 - DQLDaemon.py:147 -                start() ] Finished training step in 0.04142928123474121 seconds
+[2016-09-05 18:15:42,629 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9564523696899414 seconds
+[2016-09-05 18:15:43,592 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:15:43,594 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:43,598 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:43,598 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:43,614 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:43,622 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:43,629 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:43,631 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 17
+[2016-09-05 18:15:43,638 - DQLDaemon.py:147 -                start() ] Finished training step in 0.04353046417236328 seconds
+[2016-09-05 18:15:43,638 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9541888236999512 seconds
+[2016-09-05 18:15:44,600 - discrete_deepq.py:251 -               action() ] Chose calculated action 2
+[2016-09-05 18:15:44,604 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:44,629 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:44,631 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:44,633 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:44,635 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:44,637 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:44,639 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 17
+[2016-09-05 18:15:44,644 - DQLDaemon.py:147 -                start() ] Finished training step in 0.039940834045410156 seconds
+[2016-09-05 18:15:44,645 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9577329158782959 seconds
+[2016-09-05 18:15:45,644 - discrete_deepq.py:251 -               action() ] Chose calculated action 2
+[2016-09-05 18:15:45,648 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:45,661 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:45,664 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:45,665 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:45,673 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:45,680 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:45,684 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 17
+[2016-09-05 18:15:45,690 - DQLDaemon.py:147 -                start() ] Finished training step in 0.041954755783081055 seconds
+[2016-09-05 18:15:45,690 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9557032585144043 seconds
+[2016-09-05 18:15:46,687 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:15:46,692 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:46,693 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:46,694 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:46,713 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:46,717 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:46,726 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:46,731 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 17
+[2016-09-05 18:15:46,737 - DQLDaemon.py:147 -                start() ] Finished training step in 0.0448911190032959 seconds
+[2016-09-05 18:15:46,737 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9525916576385498 seconds
+[2016-09-05 18:15:47,731 - discrete_deepq.py:247 -               action() ] Randomly chose action 1
+[2016-09-05 18:15:47,742 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:47,746 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:47,751 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:47,762 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:47,774 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:47,776 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:47,792 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 25
+[2016-09-05 18:15:47,799 - DQLDaemon.py:147 -                start() ] Finished training step in 0.055921316146850586 seconds
+[2016-09-05 18:15:47,799 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9333617687225342 seconds
+[2016-09-05 18:15:48,740 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:15:48,786 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:48,802 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:48,803 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:48,806 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:48,806 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:48,819 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:48,833 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 25
+[2016-09-05 18:15:48,839 - DQLDaemon.py:147 -                start() ] Finished training step in 0.05306601524353027 seconds
+[2016-09-05 18:15:48,839 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9027547836303711 seconds
+[2016-09-05 18:15:49,749 - discrete_deepq.py:247 -               action() ] Randomly chose action 1
+[2016-09-05 18:15:49,786 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:49,797 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:49,797 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:49,809 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:49,813 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:49,828 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:49,839 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:15:49,845 - DQLDaemon.py:147 -                start() ] Finished training step in 0.0588078498840332 seconds
+[2016-09-05 18:15:49,845 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9051485061645508 seconds
+[2016-09-05 18:15:50,759 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:15:50,764 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:50,766 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:50,811 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:50,813 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:50,816 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:50,820 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:50,851 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:15:50,857 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09299492835998535 seconds
+[2016-09-05 18:15:50,857 - DQLDaemon.py:159 -                start() ] Sleeping for 0.903057336807251 seconds
+[2016-09-05 18:15:51,804 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:15:51,809 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:51,832 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:51,834 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:51,835 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:51,856 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:51,856 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:51,857 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:15:51,863 - DQLDaemon.py:147 -                start() ] Finished training step in 0.053746938705444336 seconds
+[2016-09-05 18:15:51,863 - DQLDaemon.py:159 -                start() ] Sleeping for 0.943378210067749 seconds
+[2016-09-05 18:15:52,834 - discrete_deepq.py:247 -               action() ] Randomly chose action 2
+[2016-09-05 18:15:52,858 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:15:52,863 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:52,866 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:52,882 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:52,895 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:15:52,902 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:52,903 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:52,903 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:15:52,907 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:15:52,919 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:15:52,925 - DQLDaemon.py:147 -                start() ] Finished training step in 0.06685709953308105 seconds
+[2016-09-05 18:15:52,925 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9119231700897217 seconds
+[2016-09-05 18:15:53,840 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:15:53,841 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:15:53,848 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:15:53,849 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:53,900 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:15:53,901 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:53,907 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:15:53,912 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:53,916 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:53,923 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:53,945 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:15:53,951 - DQLDaemon.py:147 -                start() ] Finished training step in 0.10995721817016602 seconds
+[2016-09-05 18:15:53,952 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8880717754364014 seconds
+[2016-09-05 18:15:54,842 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:15:54,844 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:15:54,907 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:54,912 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:54,915 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:15:54,930 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:15:54,931 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:15:54,936 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:54,942 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:54,942 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:54,962 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:15:54,967 - DQLDaemon.py:147 -                start() ] Finished training step in 0.12284088134765625 seconds
+[2016-09-05 18:15:54,967 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8752524852752686 seconds
+[2016-09-05 18:15:55,845 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:15:55,847 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:15:55,853 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:15:55,888 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:55,903 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:55,914 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:15:55,926 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:15:55,927 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:55,928 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:55,930 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:55,940 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:15:55,946 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09847545623779297 seconds
+[2016-09-05 18:15:55,946 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8996906280517578 seconds
+[2016-09-05 18:15:56,848 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:15:56,851 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:15:56,894 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:15:56,903 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:56,906 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:56,908 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:56,910 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:15:56,914 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:15:56,916 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:56,924 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:56,953 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:15:56,959 - DQLDaemon.py:147 -                start() ] Finished training step in 0.10800337791442871 seconds
+[2016-09-05 18:15:56,959 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8895845413208008 seconds
+[2016-09-05 18:15:57,851 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:15:57,853 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:15:57,914 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:57,916 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:15:57,921 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:15:57,923 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:57,932 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:57,932 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:15:57,936 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:57,943 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:57,952 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:15:57,958 - DQLDaemon.py:147 -                start() ] Finished training step in 0.10433197021484375 seconds
+[2016-09-05 18:15:57,958 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8937671184539795 seconds
+[2016-09-05 18:15:58,855 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:15:58,890 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:15:58,891 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:58,892 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:15:58,909 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:58,915 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:58,923 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:58,928 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:58,930 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:15:58,958 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:15:58,959 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:15:58,964 - DQLDaemon.py:147 -                start() ] Finished training step in 0.07382845878601074 seconds
+[2016-09-05 18:15:58,964 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8907921314239502 seconds
+[2016-09-05 18:15:59,890 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:15:59,892 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:15:59,894 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:15:59,905 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:15:59,910 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:15:59,911 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:15:59,914 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:15:59,924 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:15:59,932 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:15:59,939 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:15:59,975 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:15:59,981 - DQLDaemon.py:147 -                start() ] Finished training step in 0.08811259269714355 seconds
+[2016-09-05 18:15:59,981 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9098408222198486 seconds
+[2016-09-05 18:16:00,907 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:00,909 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:00,922 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:00,932 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:00,936 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:00,937 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:00,939 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:00,945 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:00,950 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:00,956 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:00,994 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:16:00,999 - DQLDaemon.py:147 -                start() ] Finished training step in 0.08966517448425293 seconds
+[2016-09-05 18:16:00,999 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9082036018371582 seconds
+[2016-09-05 18:16:01,914 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:16:01,916 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:01,920 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:01,928 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:01,929 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:01,934 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:01,935 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:01,948 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:01,964 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:01,976 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:01,977 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:16:01,983 - DQLDaemon.py:147 -                start() ] Finished training step in 0.06740260124206543 seconds
+[2016-09-05 18:16:01,984 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9301657676696777 seconds
+[2016-09-05 18:16:02,923 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:02,926 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:02,930 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:02,934 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:02,940 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:02,964 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:02,966 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:02,970 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:02,972 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:02,973 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:02,994 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:16:02,999 - DQLDaemon.py:147 -                start() ] Finished training step in 0.07238960266113281 seconds
+[2016-09-05 18:16:02,999 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9251704216003418 seconds
+[2016-09-05 18:16:03,967 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:03,972 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:03,976 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:03,983 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:03,984 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:03,993 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:03,996 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:04,004 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:04,019 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:04,021 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:04,035 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:16:04,041 - DQLDaemon.py:147 -                start() ] Finished training step in 0.06881189346313477 seconds
+[2016-09-05 18:16:04,041 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9274332523345947 seconds
+[2016-09-05 18:16:04,977 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:05,035 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:05,042 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:05,056 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:05,061 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:05,075 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:05,083 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:05,087 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:05,088 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:05,094 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:05,128 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 27
+[2016-09-05 18:16:05,134 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09856939315795898 seconds
+[2016-09-05 18:16:05,134 - DQLDaemon.py:159 -                start() ] Sleeping for 0.84425950050354 seconds
+[2016-09-05 18:16:05,987 - discrete_deepq.py:247 -               action() ] Randomly chose action 2
+[2016-09-05 18:16:06,037 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:06,041 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:06,042 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:06,052 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:06,053 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:06,060 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:06,066 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:06,067 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:06,072 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:06,083 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:06,086 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:06,089 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:06,111 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:06,116 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:06,117 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:06,124 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:06,125 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:06,165 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:06,165 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 31
+[2016-09-05 18:16:06,170 - DQLDaemon.py:147 -                start() ] Finished training step in 0.13239765167236328 seconds
+[2016-09-05 18:16:06,170 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8204116821289062 seconds
+[2016-09-05 18:16:06,994 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:06,996 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:06,999 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:07,000 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:07,019 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:07,023 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:07,032 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:07,035 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:07,040 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:07,041 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:07,043 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:07,048 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:07,054 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:07,055 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:07,083 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:07,086 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:07,089 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:07,098 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:07,102 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:07,108 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 31
+[2016-09-05 18:16:07,113 - DQLDaemon.py:147 -                start() ] Finished training step in 0.1171567440032959 seconds
+[2016-09-05 18:16:07,113 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8805897235870361 seconds
+[2016-09-05 18:16:07,997 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:07,999 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:08,000 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:08,041 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:08,042 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:08,050 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:08,063 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:08,067 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:08,068 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:08,069 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:08,072 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:08,078 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:08,080 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:08,085 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:08,087 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:08,088 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:08,089 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:08,090 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:08,100 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:08,137 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 31
+[2016-09-05 18:16:08,142 - DQLDaemon.py:147 -                start() ] Finished training step in 0.14329957962036133 seconds
+[2016-09-05 18:16:08,143 - DQLDaemon.py:159 -                start() ] Sleeping for 0.854663610458374 seconds
+[2016-09-05 18:16:09,001 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:09,036 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:09,038 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:09,039 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:09,050 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:09,053 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:09,060 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:09,062 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:09,071 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:09,080 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:09,083 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:09,083 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:09,084 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:09,086 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:09,089 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:09,098 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:09,103 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:09,104 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:09,110 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:09,130 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 31
+[2016-09-05 18:16:09,135 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09871482849121094 seconds
+[2016-09-05 18:16:09,136 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8653197288513184 seconds
+[2016-09-05 18:16:10,015 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:10,039 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:10,043 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:10,050 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:10,053 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:10,069 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:10,069 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:10,070 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:10,071 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:10,071 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:10,075 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:10,089 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:10,091 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:10,093 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:10,100 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:10,101 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:10,102 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:10,112 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:10,114 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:10,149 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 31
+[2016-09-05 18:16:10,154 - DQLDaemon.py:147 -                start() ] Finished training step in 0.11466574668884277 seconds
+[2016-09-05 18:16:10,154 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8615643978118896 seconds
+[2016-09-05 18:16:11,041 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:11,044 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:11,051 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:11,056 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:11,057 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:11,059 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:11,062 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:11,067 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:11,074 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:11,074 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:11,087 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:11,089 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:11,090 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:11,096 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:11,104 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:11,108 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:11,110 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:11,116 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:11,123 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:11,129 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 31
+[2016-09-05 18:16:11,135 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09030556678771973 seconds
+[2016-09-05 18:16:11,135 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9067652225494385 seconds
+[2016-09-05 18:16:12,051 - discrete_deepq.py:251 -               action() ] Chose calculated action 0
+[2016-09-05 18:16:12,053 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:12,055 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:12,056 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:12,064 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:12,067 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:12,068 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:12,074 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:12,075 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:12,090 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:12,091 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:12,092 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:12,094 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:12,097 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:12,102 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:12,109 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:12,109 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:12,111 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:12,123 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:12,153 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 31
+[2016-09-05 18:16:12,158 - DQLDaemon.py:147 -                start() ] Finished training step in 0.10435962677001953 seconds
+[2016-09-05 18:16:12,158 - DQLDaemon.py:159 -                start() ] Sleeping for 0.89316725730896 seconds
+[2016-09-05 18:16:13,060 - discrete_deepq.py:247 -               action() ] Randomly chose action 2
+[2016-09-05 18:16:13,098 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:13,101 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:13,101 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:13,102 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:13,106 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:13,107 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:13,117 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:13,122 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:13,124 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:13,126 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:13,127 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:13,129 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:13,129 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:13,130 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:13,130 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:13,134 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:13,139 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:13,144 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:13,145 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:13,147 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:13,150 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:13,158 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:13,166 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:13,176 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:13,181 - DQLDaemon.py:147 -                start() ] Finished training step in 0.08316779136657715 seconds
+[2016-09-05 18:16:13,181 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8808960914611816 seconds
+[2016-09-05 18:16:14,065 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:14,067 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:14,069 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:14,112 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:14,124 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:14,128 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:14,129 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:14,130 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:14,135 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:14,137 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:14,142 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:14,142 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:14,145 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:14,150 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:14,151 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:14,154 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:14,154 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:14,157 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:14,162 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:14,170 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:14,176 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:14,183 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:14,184 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:14,187 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:14,201 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:14,206 - DQLDaemon.py:147 -                start() ] Finished training step in 0.1390213966369629 seconds
+[2016-09-05 18:16:14,206 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8588674068450928 seconds
+[2016-09-05 18:16:15,068 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:15,071 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:15,108 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:15,117 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:15,120 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:15,123 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:15,130 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:15,130 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:15,131 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:15,134 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:15,134 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:15,141 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:15,143 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:15,145 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:15,152 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:15,153 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:15,156 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:15,164 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:15,165 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:15,169 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:15,170 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:15,176 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:15,186 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:15,196 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:15,197 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:15,222 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:15,227 - DQLDaemon.py:147 -                start() ] Finished training step in 0.15652155876159668 seconds
+[2016-09-05 18:16:15,228 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8408012390136719 seconds
+[2016-09-05 18:16:16,090 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:16,114 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:16,115 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:16,122 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:16,123 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:16,124 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:16,127 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:16,128 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:16,134 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:16,140 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:16,141 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:16,143 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:16,146 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:16,149 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:16,149 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:16,150 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:16,157 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:16,158 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:16,162 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:16,166 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:16,167 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:16,178 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:16,181 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:16,182 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:16,194 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:16,199 - DQLDaemon.py:147 -                start() ] Finished training step in 0.08461141586303711 seconds
+[2016-09-05 18:16:16,199 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8911900520324707 seconds
+[2016-09-05 18:16:17,110 - discrete_deepq.py:247 -               action() ] Randomly chose action 1
+[2016-09-05 18:16:17,119 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:17,122 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:17,123 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:17,135 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:17,140 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:17,150 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:17,151 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:17,152 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:17,156 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:17,157 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:17,157 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:17,158 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:17,159 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:17,161 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:17,168 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:17,171 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:17,171 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:17,174 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:17,174 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:17,176 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:17,178 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:17,180 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:17,189 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:17,191 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:17,193 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:17,196 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:17,198 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:17,200 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:17,213 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:17,219 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09948992729187012 seconds
+[2016-09-05 18:16:17,219 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8933901786804199 seconds
+[2016-09-05 18:16:18,118 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:16:18,121 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:18,156 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:18,157 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:18,157 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:18,159 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:18,159 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:18,162 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:18,165 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:18,165 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:18,168 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:18,174 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:18,180 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:18,181 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:18,181 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:18,185 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:18,187 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:18,188 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:18,192 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:18,193 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:18,195 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:18,196 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:18,197 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:18,199 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:18,203 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:18,204 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:18,205 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:18,216 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:18,220 - DQLDaemon.py:147 -                start() ] Finished training step in 0.0989997386932373 seconds
+[2016-09-05 18:16:18,220 - DQLDaemon.py:159 -                start() ] Sleeping for 0.898625373840332 seconds
+[2016-09-05 18:16:19,158 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:19,160 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:19,162 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:19,164 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:19,167 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:19,168 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:19,169 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:19,174 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:19,177 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:19,184 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:19,186 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:19,189 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:19,189 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:19,192 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:19,193 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:19,200 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:19,202 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:19,205 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:19,216 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:19,217 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:19,219 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:19,220 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:19,221 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:19,227 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:19,228 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:19,230 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:19,235 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:19,241 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:19,243 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:19,263 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:19,268 - DQLDaemon.py:147 -                start() ] Finished training step in 0.10820317268371582 seconds
+[2016-09-05 18:16:19,269 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8898265361785889 seconds
+[2016-09-05 18:16:20,161 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:20,163 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:20,168 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:20,170 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:20,171 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:20,174 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:20,175 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:20,176 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:20,182 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:20,187 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:20,190 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:20,195 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:20,203 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:20,207 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:20,208 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:20,209 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:20,210 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:20,219 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:20,221 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:20,225 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:20,225 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:20,228 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:20,230 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:20,231 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:20,233 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:20,239 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:20,243 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:20,250 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:20,254 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:20,260 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09683752059936523 seconds
+[2016-09-05 18:16:20,261 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9009420871734619 seconds
+[2016-09-05 18:16:21,165 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:21,167 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:21,168 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:21,174 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:21,175 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:21,187 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:21,192 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:21,200 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:21,204 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:21,209 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:21,212 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:21,213 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:21,215 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:21,223 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:21,223 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:21,225 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:21,225 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:21,228 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:21,229 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:21,231 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:21,232 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:21,233 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:21,234 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:21,235 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:21,240 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:21,242 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:21,249 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:21,259 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:21,266 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:21,272 - DQLDaemon.py:147 -                start() ] Finished training step in 0.10486125946044922 seconds
+[2016-09-05 18:16:21,272 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8928103446960449 seconds
+[2016-09-05 18:16:22,173 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:22,175 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:22,179 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:22,183 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:22,184 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:22,187 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:22,190 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:22,192 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:22,193 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:22,194 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:22,201 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:22,205 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:22,209 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:22,217 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:22,222 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:22,222 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:22,223 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:22,226 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:22,237 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:22,241 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:22,246 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:22,248 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:22,251 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:22,252 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:22,254 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:22,256 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:22,262 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:22,292 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:22,298 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:22,303 - DQLDaemon.py:147 -                start() ] Finished training step in 0.12735486030578613 seconds
+[2016-09-05 18:16:22,303 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8699564933776855 seconds
+[2016-09-05 18:16:23,181 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:23,186 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:23,193 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:23,195 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:23,196 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:23,197 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:23,200 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:23,201 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:23,205 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:23,206 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:23,210 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:23,219 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:23,221 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:23,222 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:23,223 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:23,227 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:23,229 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:23,236 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:23,241 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:23,243 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:23,245 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:23,246 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:23,257 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:23,257 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:23,259 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:23,261 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:23,264 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:23,274 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:23,279 - DQLDaemon.py:147 -                start() ] Finished training step in 0.0928182601928711 seconds
+[2016-09-05 18:16:23,279 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9036650657653809 seconds
+[2016-09-05 18:16:24,193 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:24,203 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:24,235 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:24,236 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:24,236 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:24,238 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:24,243 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:24,246 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:24,249 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:24,253 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:24,254 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:24,259 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:24,266 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:24,268 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:24,270 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:24,277 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:24,280 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:24,281 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:24,281 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:24,284 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:24,291 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:24,293 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:24,293 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:24,294 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:24,295 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:24,302 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:24,304 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:24,317 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:24,329 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:24,334 - DQLDaemon.py:147 -                start() ] Finished training step in 0.1308145523071289 seconds
+[2016-09-05 18:16:24,334 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8608226776123047 seconds
+[2016-09-05 18:16:25,204 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:25,212 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:25,223 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:25,228 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:25,229 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:25,252 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:25,255 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:25,258 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:25,270 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:25,273 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:25,274 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:25,274 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:25,275 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:25,276 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:25,283 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:25,284 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:25,286 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:25,286 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:25,287 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:25,290 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:25,302 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:25,305 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:25,308 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:25,316 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:25,317 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:25,321 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:25,321 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:25,322 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:25,329 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:25,335 - DQLDaemon.py:147 -                start() ] Finished training step in 0.12217354774475098 seconds
+[2016-09-05 18:16:25,335 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8710165023803711 seconds
+[2016-09-05 18:16:26,214 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:16:26,244 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:26,251 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:26,257 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:26,257 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:26,260 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:26,262 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:26,263 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:26,264 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:26,265 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:26,268 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:26,271 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:26,273 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:26,277 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:26,283 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:26,284 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:26,286 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:26,294 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:26,298 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:26,299 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:26,300 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:26,310 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:26,311 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:26,312 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:26,318 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:26,333 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:26,335 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:26,337 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:26,342 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09769964218139648 seconds
+[2016-09-05 18:16:26,342 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8724656105041504 seconds
+[2016-09-05 18:16:27,252 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:16:27,254 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:27,256 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:27,260 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:27,261 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:27,262 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:27,262 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:27,267 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:27,274 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:27,275 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:27,279 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:27,283 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:27,284 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:27,285 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:27,290 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:27,299 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:27,308 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:27,311 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:27,317 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:27,319 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:27,321 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:27,321 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:27,322 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:27,323 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:27,324 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:27,325 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:27,328 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:27,329 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:27,334 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:27,353 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:27,357 - DQLDaemon.py:147 -                start() ] Finished training step in 0.10246443748474121 seconds
+[2016-09-05 18:16:27,357 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8952493667602539 seconds
+[2016-09-05 18:16:28,261 - discrete_deepq.py:251 -               action() ] Chose calculated action 0
+[2016-09-05 18:16:28,264 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:28,268 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:28,271 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:28,273 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:28,277 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:28,278 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:28,279 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:28,282 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:28,289 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:28,290 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:28,296 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:28,298 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:28,301 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:28,307 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:28,308 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:28,310 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:28,324 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:28,324 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:28,325 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:28,327 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:28,328 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:28,328 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:28,334 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:28,338 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:28,339 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:28,351 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:28,356 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09174108505249023 seconds
+[2016-09-05 18:16:28,356 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9056243896484375 seconds
+[2016-09-05 18:16:29,270 - discrete_deepq.py:251 -               action() ] Chose calculated action 2
+[2016-09-05 18:16:29,276 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:29,283 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:29,284 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:29,285 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:29,289 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:29,291 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:29,294 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:29,297 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:29,298 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:29,301 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:29,302 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:29,303 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:29,305 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:29,310 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:29,318 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:29,318 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:29,321 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:29,327 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:29,333 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:29,336 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:29,336 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:29,338 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:29,343 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:29,345 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:29,345 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:29,356 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:29,359 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:29,371 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:29,415 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:29,419 - DQLDaemon.py:147 -                start() ] Finished training step in 0.1426842212677002 seconds
+[2016-09-05 18:16:29,420 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8537445068359375 seconds
+[2016-09-05 18:16:30,316 - discrete_deepq.py:251 -               action() ] Chose calculated action 2
+[2016-09-05 18:16:30,320 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:30,322 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:30,326 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:30,335 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:30,340 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:30,352 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:30,355 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:30,356 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:30,358 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:30,361 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:30,361 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:30,362 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:30,364 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:30,367 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:30,370 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:30,372 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:30,373 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:30,379 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:30,380 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:30,386 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:30,389 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:30,392 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:30,397 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:30,401 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:30,404 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:30,406 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:30,414 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:30,419 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09825539588928223 seconds
+[2016-09-05 18:16:30,419 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8990130424499512 seconds
+[2016-09-05 18:16:31,361 - discrete_deepq.py:247 -               action() ] Randomly chose action 2
+[2016-09-05 18:16:31,373 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:31,386 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:31,390 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:31,391 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:31,394 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:31,397 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:31,404 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:31,405 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:31,407 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:31,413 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:31,417 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:31,419 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:31,420 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:31,423 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:31,423 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:31,426 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:31,429 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:31,430 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:31,432 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:31,433 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:31,438 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:31,439 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:31,451 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:31,459 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:31,463 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:31,468 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09486842155456543 seconds
+[2016-09-05 18:16:31,469 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8935997486114502 seconds
+[2016-09-05 18:16:32,372 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:32,381 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:32,387 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:32,400 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:32,425 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:32,428 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:32,433 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:32,439 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:32,442 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:32,453 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:32,459 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:32,460 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:32,463 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:32,471 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:32,472 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:32,474 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:32,475 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124580
+[2016-09-05 18:16:32,486 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:32,489 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:32,490 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:32,491 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:32,498 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:32,503 - DQLDaemon.py:147 -                start() ] Finished training step in 0.12131500244140625 seconds
+[2016-09-05 18:16:32,503 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8701791763305664 seconds
+[2016-09-05 18:16:33,383 - discrete_deepq.py:251 -               action() ] Chose calculated action 0
+[2016-09-05 18:16:33,440 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:33,445 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:33,450 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:33,451 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:33,452 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:33,459 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:33,460 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:33,463 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:33,464 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:33,471 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:33,471 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:33,482 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:33,483 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:33,485 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:33,485 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:33,489 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:33,491 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:33,492 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:33,492 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:33,493 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:33,494 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:33,497 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124580
+[2016-09-05 18:16:33,502 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:33,505 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:33,515 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:33,520 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:33,529 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:33,535 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09464716911315918 seconds
+[2016-09-05 18:16:33,535 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8480494022369385 seconds
+[2016-09-05 18:16:34,403 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:34,424 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:34,438 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:34,444 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:34,457 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:34,474 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124580
+[2016-09-05 18:16:34,474 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:34,475 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:34,477 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:34,479 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:34,481 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:34,483 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:34,491 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:34,492 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:34,494 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:34,497 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:34,497 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:34,500 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:34,501 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:34,503 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:34,504 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:34,507 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:34,511 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:34,517 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:34,522 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09867620468139648 seconds
+[2016-09-05 18:16:34,523 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8814723491668701 seconds
+[2016-09-05 18:16:35,412 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:35,426 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:35,446 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:35,450 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:35,453 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:35,458 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:35,461 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:35,466 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:35,468 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:35,476 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:35,476 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:35,481 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:35,483 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:35,486 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:35,488 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:35,489 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:35,489 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:35,493 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:35,499 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:35,513 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:35,514 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:35,515 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124580
+[2016-09-05 18:16:35,516 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:35,519 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:35,520 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:35,528 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:35,532 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:35,536 - DQLDaemon.py:147 -                start() ] Finished training step in 0.11046004295349121 seconds
+[2016-09-05 18:16:35,536 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8778395652770996 seconds
+[2016-09-05 18:16:36,423 - discrete_deepq.py:247 -               action() ] Randomly chose action 2
+[2016-09-05 18:16:36,481 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:36,486 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:36,488 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:36,497 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:36,498 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:36,499 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:36,511 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:36,519 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:36,520 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:36,522 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:36,523 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:36,524 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:36,527 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:36,532 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:36,538 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:36,540 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:36,547 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:36,548 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:36,555 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:36,569 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:36,575 - DQLDaemon.py:147 -                start() ] Finished training step in 0.0935826301574707 seconds
+[2016-09-05 18:16:36,575 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8495335578918457 seconds
+[2016-09-05 18:16:37,434 - discrete_deepq.py:251 -               action() ] Chose calculated action 0
+[2016-09-05 18:16:37,437 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:37,441 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:37,485 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:37,496 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:37,500 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:37,505 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:37,506 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:37,507 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:37,511 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:37,525 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:37,526 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:37,530 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:37,531 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:37,533 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:37,534 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:37,539 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:37,542 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:37,544 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:37,545 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124580
+[2016-09-05 18:16:37,548 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:37,553 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:37,557 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:37,559 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:37,562 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:37,566 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:37,572 - DQLDaemon.py:147 -                start() ] Finished training step in 0.13511967658996582 seconds
+[2016-09-05 18:16:37,572 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8619718551635742 seconds
+[2016-09-05 18:16:38,445 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:38,455 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:38,502 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:38,505 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:38,506 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:38,510 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:38,514 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:38,517 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:38,520 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:38,521 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:38,528 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:38,536 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:38,541 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:38,541 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:38,546 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:38,547 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:38,549 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:38,553 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:38,562 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:38,565 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:38,568 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:38,575 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:38,580 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:38,586 - DQLDaemon.py:147 -                start() ] Finished training step in 0.13103795051574707 seconds
+[2016-09-05 18:16:38,587 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8599135875701904 seconds
+[2016-09-05 18:16:39,450 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:39,452 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:39,490 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:39,494 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:39,495 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:39,496 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:39,514 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:39,528 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:39,539 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:39,542 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:39,543 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:39,543 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:39,544 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:39,548 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:39,552 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:39,555 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:39,555 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:39,559 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:39,562 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:39,564 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:39,565 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:39,568 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:39,569 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:39,571 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:39,572 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:39,573 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:39,578 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:39,584 - DQLDaemon.py:147 -                start() ] Finished training step in 0.13125181198120117 seconds
+[2016-09-05 18:16:39,584 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8664426803588867 seconds
+[2016-09-05 18:16:40,453 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:40,456 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:40,476 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:40,499 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:40,499 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:40,509 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:40,509 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:40,510 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:40,512 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:40,513 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:40,524 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:40,524 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:40,525 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:40,528 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:40,535 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124580
+[2016-09-05 18:16:40,537 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:40,539 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:40,547 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:40,547 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:40,555 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:40,555 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:40,559 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:40,562 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:40,566 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:40,572 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:40,577 - DQLDaemon.py:147 -                start() ] Finished training step in 0.12085151672363281 seconds
+[2016-09-05 18:16:40,577 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8761875629425049 seconds
+[2016-09-05 18:16:41,456 - DQLDaemon.py:199 -      _do_action_step() ] . Skipped taking action.
+[2016-09-05 18:16:41,476 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0
+[2016-09-05 18:16:41,505 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:41,507 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:41,512 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:41,515 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:41,523 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:41,524 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:41,525 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:41,530 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:41,532 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:41,534 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:41,539 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:41,544 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:41,544 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:41,548 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:41,549 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:41,549 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124580
+[2016-09-05 18:16:41,557 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:41,559 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:41,560 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:41,564 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:41,565 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:41,568 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:41,573 - DQLDaemon.py:147 -                start() ] Finished training step in 0.09594035148620605 seconds
+[2016-09-05 18:16:41,573 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8835945129394531 seconds
+[2016-09-05 18:16:42,505 - discrete_deepq.py:247 -               action() ] Randomly chose action 1
+[2016-09-05 18:16:42,513 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:42,515 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:42,522 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:42,528 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:42,531 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:42,541 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:42,547 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:42,550 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:42,550 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124598
+[2016-09-05 18:16:42,553 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:42,556 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:42,557 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124599
+[2016-09-05 18:16:42,559 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124580
+[2016-09-05 18:16:42,570 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:42,571 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:42,573 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:42,580 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:42,581 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:42,584 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:42,589 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:42,591 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:42,596 - DQLDaemon.py:147 -                start() ] Finished training step in 0.0825808048248291 seconds
+[2016-09-05 18:16:42,596 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9112842082977295 seconds
+[2016-09-05 18:16:43,550 - discrete_deepq.py:247 -               action() ] Randomly chose action 0
+[2016-09-05 18:16:43,552 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:43,572 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:43,573 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124598
+[2016-09-05 18:16:43,581 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124596
+[2016-09-05 18:16:43,592 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:43,593 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:43,612 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:43,615 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:43,616 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:43,616 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:43,623 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124597
+[2016-09-05 18:16:43,625 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:43,628 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124600
+[2016-09-05 18:16:43,631 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124599
+[2016-09-05 18:16:43,633 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:43,635 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:43,640 - DQLDaemon.py:147 -                start() ] Finished training step in 0.08735370635986328 seconds
+[2016-09-05 18:16:43,640 - DQLDaemon.py:159 -                start() ] Sleeping for 0.9097862243652344 seconds
+[2016-09-05 18:16:44,558 - discrete_deepq.py:247 -               action() ] Randomly chose action 1
+[2016-09-05 18:16:44,567 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:44,578 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:44,579 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:44,579 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:44,584 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124573
+[2016-09-05 18:16:44,593 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:44,596 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:44,601 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124580
+[2016-09-05 18:16:44,603 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124598
+[2016-09-05 18:16:44,613 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:44,615 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:44,616 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:44,623 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:44,626 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124597
+[2016-09-05 18:16:44,630 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:44,631 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:44,633 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:44,635 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:44,638 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:44,642 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:44,647 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:44,652 - DQLDaemon.py:147 -                start() ] Finished training step in 0.08492350578308105 seconds
+[2016-09-05 18:16:44,652 - DQLDaemon.py:159 -                start() ] Sleeping for 0.907534122467041 seconds
+[2016-09-05 18:16:45,568 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:45,577 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:45,603 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:45,610 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:45,611 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124598
+[2016-09-05 18:16:45,613 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:45,623 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:45,628 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124596
+[2016-09-05 18:16:45,636 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:45,640 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:45,642 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124599
+[2016-09-05 18:16:45,643 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:45,643 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:45,644 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:45,646 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124580
+[2016-09-05 18:16:45,647 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:45,647 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:45,648 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:45,649 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124574
+[2016-09-05 18:16:45,652 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:45,657 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:45,665 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:45,666 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:45,667 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:45,670 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124597
+[2016-09-05 18:16:45,674 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:45,675 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124554
+[2016-09-05 18:16:45,676 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:45,677 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:45,680 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:45,685 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:45,692 - DQLDaemon.py:147 -                start() ] Finished training step in 0.1146702766418457 seconds
+[2016-09-05 18:16:45,692 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8774416446685791 seconds
+[2016-09-05 18:16:46,580 - discrete_deepq.py:251 -               action() ] Chose calculated action 1
+[2016-09-05 18:16:46,589 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:46,602 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:46,608 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124596
+[2016-09-05 18:16:46,623 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124600
+[2016-09-05 18:16:46,626 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124529
+[2016-09-05 18:16:46,629 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:46,632 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:46,633 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:46,640 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124597
+[2016-09-05 18:16:46,641 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124578
+[2016-09-05 18:16:46,643 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124552
+[2016-09-05 18:16:46,644 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124555
+[2016-09-05 18:16:46,651 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124566
+[2016-09-05 18:16:46,652 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:46,652 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:46,658 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124549
+[2016-09-05 18:16:46,664 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:46,665 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:46,670 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:46,671 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124572
+[2016-09-05 18:16:46,675 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124568
+[2016-09-05 18:16:46,677 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124556
+[2016-09-05 18:16:46,678 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124530
+[2016-09-05 18:16:46,682 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:46,683 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124599
+[2016-09-05 18:16:46,687 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124598
+[2016-09-05 18:16:46,690 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:46,690 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:46,693 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:46,694 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:46,704 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:46,710 - DQLDaemon.py:147 -                start() ] Finished training step in 0.12031936645507812 seconds
+[2016-09-05 18:16:46,710 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8710639476776123 seconds
+[2016-09-05 18:16:47,590 - discrete_deepq.py:247 -               action() ] Randomly chose action 2
+[2016-09-05 18:16:47,638 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:47,640 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124557
+[2016-09-05 18:16:47,643 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124571
+[2016-09-05 18:16:47,648 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124527
+[2016-09-05 18:16:47,649 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124565
+[2016-09-05 18:16:47,658 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124600
+[2016-09-05 18:16:47,659 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124567
+[2016-09-05 18:16:47,683 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124563
+[2016-09-05 18:16:47,689 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124596
+[2016-09-05 18:16:47,690 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124564
+[2016-09-05 18:16:47,693 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124528
+[2016-09-05 18:16:47,693 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124579
+[2016-09-05 18:16:47,699 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124577
+[2016-09-05 18:16:47,702 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124581
+[2016-09-05 18:16:47,703 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124569
+[2016-09-05 18:16:47,703 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124598
+[2016-09-05 18:16:47,710 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124575
+[2016-09-05 18:16:47,716 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124553
+[2016-09-05 18:16:47,717 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124597
+[2016-09-05 18:16:47,723 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124580
+[2016-09-05 18:16:47,724 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124531
+[2016-09-05 18:16:47,725 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124558
+[2016-09-05 18:16:47,725 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124550
+[2016-09-05 18:16:47,728 - LustreGame.py:223 -       get_mini_batch() ] NotEnoughDataError for ts 1473124551
+[2016-09-05 18:16:47,734 - DQLDaemon.py:182 -    _do_training_step() ] Got minibatch of size 32
+[2016-09-05 18:16:47,740 - DQLDaemon.py:147 -                start() ] Finished training step in 0.10248732566833496 seconds
+[2016-09-05 18:16:47,741 - DQLDaemon.py:159 -                start() ] Sleeping for 0.8512463569641113 seconds
+[2016-09-05 18:16:48,125 - DQLDaemon.py:246 -                 stop() ] Requesting DQLDaemon to stop...
+[2016-09-05 18:16:48,603 - discrete_deepq.py:251 -               action() ] Chose calculated action 2
+[2016-09-05 18:16:48,644 - DQLDaemon.py:167 -                start() ] Cumulative reward: 0.0
+[2016-09-05 18:16:48,645 - DQLDaemon.py:170 -                start() ] DQLDaemon stopped

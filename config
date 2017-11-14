@@ -1,0 +1,6 @@
+# Location of your Python VENV
+# VENV=/share/py35-venv/bin/activate
+# or use an outside config file
+if [ -f ~/.config/ascar/service.conf ]; then
+   . ~/.config/ascar/service.conf
+fi

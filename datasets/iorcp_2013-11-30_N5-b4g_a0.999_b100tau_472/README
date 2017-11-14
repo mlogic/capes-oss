@@ -1,0 +1,3 @@
+Run gen_fig.sh to generate the client status figure used in the paper.
+It uses the preserved old script in this directory; the latest from
+the scripts directory cannot read the old stat log format here. 

@@ -1,0 +1,163 @@
+IOR-3.0.1: MPI Coordinated Test of Parallel I/O
+
+Began: Thu Nov 28 07:11:54 2013
+Command line used: /share/ior/src/ior -a MPIIO -w -N5 -d 0 -i 1 -s 1 -F -b 4g -t 256m -s 1 -v -v -v -o /lustre1/ior-test-file
+Machine: Linux dhalsim.soe.ucsc.edu 2.6.32-358.23.2.el6.x86_64 #1 SMP Wed Oct 16 18:37:12 UTC 2013 x86_64
+Using synchronized MPI timer
+Start time skew across all tasks: 10.75 sec
+STARTING ENVIRON LOOP
+HOSTNAME=dhalsim.soe.ucsc.edu
+SHELL=/bin/bash
+TERM=xterm
+HISTSIZE=1000
+SSH_CLIENT=50.131.193.31 65188 22
+SSH_TTY=/dev/pts/0
+USER=root
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:
+PATH=/usr/local/Canopy_64bit/User/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/share/bin:/root/bin
+MAIL=/var/spool/mail/root
+PWD=/share/misc/scripts/ior_checkpoint
+LANG=en_US.UTF-8
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+LOADEDMODULES=
+HISTCONTROL=ignoreboth
+HOME=/root
+SHLVL=4
+LOGNAME=root
+LESS= -i -R
+SSH_CONNECTION=50.131.193.31 65188 128.114.52.59 22
+MODULESHOME=/usr/share/Modules
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+G_BROKEN_FILENAMES=1
+module=() {  eval `/usr/bin/modulecmd bash $*`
+}
+OLDPWD=/share/misc/scripts
+_=/share/bin/mpiexec
+HYDI_CONTROL_FD=7
+GFORTRAN_UNBUFFERED_PRECONNECTED=y
+MPICH_INTERFACE_HOSTNAME=dhalsim.soe.ucsc.edu
+PMI_RANK=0
+PMI_FD=6
+PMI_SIZE=5
+ENDING ENVIRON LOOP
+
+Test 0 started: Thu Nov 28 07:11:54 2013
+Path: /lustre1
+FS: 1.8 TiB   Used FS: 0.1%   Inodes: 3.5 Mi   Used Inodes: 0.0%
+TEST:	id=0
+	refnum=0
+	api=MPIIO
+	platform=dhalsim.soe.ucsc.edu(Linux)
+	testFileName=/lustre1/ior-test-file
+	hintsFileName=
+	deadlineForStonewall=0
+	maxTimeDuration=0
+	outlierThreshold=0
+	options=
+	nodes=5
+	memoryPerTask=0
+	memoryPerNode=0
+	tasksPerNode=1
+	repetitions=1
+	multiFile=0
+	interTestDelay=0
+	fsync=0
+	fsYncperwrite=0
+	useExistingTestFile=0
+	showHints=0
+	uniqueDir=0
+	showHelp=0
+	individualDataSets=0
+	singleXferAttempt=0
+	readFile=0
+	writeFile=1
+	filePerProc=1
+	reorderTasks=0
+	reorderTasksRandom=0
+	reorderTasksRandomSeed=0
+	randomOffset=0
+	checkWrite=0
+	checkRead=0
+	preallocate=0
+	useFileView=0
+	setAlignment=1
+	storeFileOffset=0
+	useSharedFilePointer=0
+	useO_DIRECT=0
+	useStridedDatatype=0
+	keepFile=0
+	keepFileWithError=0
+	quitOnError=0
+	verbose=3
+	setTimeStampSignature=0
+	collective=0
+	segmentCount=1
+	transferSize=268435456
+	blockSize=4294967296
+Participating tasks: 5
+task 0 on dhalsim.soe.ucsc.edu
+task 1 on blanka.soe.ucsc.edu
+task 2 on ryu.soe.ucsc.edu
+task 3 on gouken.soe.ucsc.edu
+task 4 on seth.soe.ucsc.edu
+Summary:
+	api                = MPIIO (version=3, subversion=0)
+	test filename      = /lustre1/ior-test-file
+	access             = file-per-process, independent
+	pattern            = segmented (1 segment)
+	ordering in a file = sequential offsets
+	ordering inter file= no tasks offsets
+	clients            = 5 (1 per node)
+	repetitions        = 1
+	xfersize           = 256 MiB
+	blocksize          = 4 GiB
+	aggregate filesize = 20 GiB
+Using Time Stamp 1385651514 (0x52975d3a) for Data Signature
+
+access    bw(MiB/s)  block(KiB) xfer(KiB)  open(s)    wr/rd(s)   close(s)   total(s)   iter
+------    ---------  ---------- ---------  --------   --------   --------   --------   ----
+task 0 writing /lustre1/ior-test-file.00000000
+task 4 writing /lustre1/ior-test-file.00000004
+task 1 writing /lustre1/ior-test-file.00000001
+task 2 writing /lustre1/ior-test-file.00000002
+task 3 writing /lustre1/ior-test-file.00000003
+Test 0: Iter=0, Task=2, Time=1385651514.960445, write open start
+Test 0: Iter=0, Task=2, Time=1385651514.985900, write open stop
+Test 0: Iter=0, Task=2, Time=1385651514.985900, write start
+Test 0: Iter=0, Task=2, Time=1385651561.814719, write stop
+Test 0: Iter=0, Task=2, Time=1385651561.814721, write close start
+Test 0: Iter=0, Task=2, Time=1385651561.815229, write close stop
+Test 0: Iter=0, Task=4, Time=1385651514.960429, write open start
+Test 0: Iter=0, Task=4, Time=1385651514.974093, write open stop
+Test 0: Iter=0, Task=4, Time=1385651514.974093, write start
+Test 0: Iter=0, Task=4, Time=1385651562.170187, write stop
+Test 0: Iter=0, Task=4, Time=1385651562.170189, write close start
+Test 0: Iter=0, Task=4, Time=1385651562.170835, write close stop
+Test 0: Iter=0, Task=1, Time=1385651514.960420, write open start
+Test 0: Iter=0, Task=1, Time=1385651514.978070, write open stop
+Test 0: Iter=0, Task=1, Time=1385651514.978070, write start
+Test 0: Iter=0, Task=1, Time=1385651561.680152, write stop
+Test 0: Iter=0, Task=1, Time=1385651561.680155, write close start
+Test 0: Iter=0, Task=1, Time=1385651561.680787, write close stop
+Test 0: Iter=0, Task=0, Time=1385651514.960338, write open start
+Test 0: Iter=0, Task=0, Time=1385651514.962773, write open stop
+Test 0: Iter=0, Task=0, Time=1385651514.962794, write start
+Test 0: Iter=0, Task=0, Time=1385651562.677688, write stop
+Test 0: Iter=0, Task=0, Time=1385651562.677690, write close start
+Test 0: Iter=0, Task=0, Time=1385651562.680048, write close stop
+Test 0: Iter=0, Task=3, Time=1385651514.960368, write open start
+Test 0: Iter=0, Task=3, Time=1385651514.973764, write open stop
+Test 0: Iter=0, Task=3, Time=1385651514.973764, write start
+Test 0: Iter=0, Task=3, Time=1385651562.736011, write stop
+Test 0: Iter=0, Task=3, Time=1385651562.736013, write close start
+Test 0: Iter=0, Task=3, Time=1385651562.737160, write close stop
+write     428.66     4194304    262144     0.025562   47.77      1.06       47.78      0   
+remove    -          -          -          -          -          -          0.011510   0   
+
+Max Write: 428.66 MiB/sec (449.48 MB/sec)
+
+Summary of all tests:
+Operation   Max(MiB)   Min(MiB)  Mean(MiB)     StdDev    Mean(s) Test# #Tasks tPN reps fPP reord reordoff reordrand seed segcnt blksiz xsize aggsize API RefNum
+write         428.66     428.66     428.66       0.00   47.77682 0 5 1 1 1 0 1 0 0 1 4294967296 268435456 21474836480 MPIIO 0
+
+Finished: Thu Nov 28 07:12:42 2013
